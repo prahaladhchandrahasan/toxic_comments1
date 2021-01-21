@@ -1,4 +1,4 @@
-# Toxic comments CLassifier using LSTM
+# Toxic comments Classifier using LSTM
 
 Install the required dependencides using
 > pip install -r requirements.txt
