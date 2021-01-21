@@ -5,7 +5,6 @@ aiohttp==3.6.3
 aiormq==3.3.1
 anyio==2.0.2
 APScheduler==3.6.3
-apturl==0.5.2
 argon2-cffi==20.1.0
 astunparse==1.6.3
 async-generator==1.10
